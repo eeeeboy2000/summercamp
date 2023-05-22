@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Roboto+Condensed:wght@300&display=swap');
+.container 
+    {
+        position: relative;
+        text-align: center;
+        color: white;
+        font-size: 250px;
+    }
+    .top-left 
+    {
+        position: absolute;
+        top: 8px;
+        left: 16px;
+    }
+    div.sticky
+    {
+        position: sticky;
+        top: 0;
+    }
+    a:link {
+        color: lightcyan;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:hover {
+        color: lightblue;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      a:active {
+        color: lemonchiffon;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      h2{
+        font-family: 'Amatic SC', cursive;
+        font-size: 90px;
+        text-align: center;
+      }
+      p{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 100;
+      }
+      .intro
+      {
+            margin: 100px;
+      }
+      img
+      {
+            border-radius: 50px;
+      }
+      footer
+      {
+        position: absolute;
+        background-color: white;
+        width: 100%;
+      }
+      .check
+      {
+        color: black;
+        font-family: 'Amatic SC', cursive;
+      }
